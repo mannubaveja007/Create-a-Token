@@ -28,8 +28,7 @@ There can be issue of Solidity Compiler version... so must check it properly
 It will work fine only ...😁
 
 ## Authors
-
-@Mannubaveja007
+Mannu Baveja
 
 
 
