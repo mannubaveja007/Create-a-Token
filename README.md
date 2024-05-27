@@ -21,26 +21,15 @@ Hey there I am Mannu Baveja (  ^ _ ^👋) , in this project I have created my ve
 * Go to "Deploy & transactions"
 * Click on Deploy
 * You are done With executing The program...
-```
-code blocks for commands
-```
 
 ## Help
 
 There can be issue of Solidity Compiler version... so must check it properly 
 It will work fine only ...😁
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+@Mannubaveja007
 
 
-## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
