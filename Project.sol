@@ -34,6 +34,6 @@ contract MyToken {
         if(msg.sender.balance >= _value){
         TotalSupply-=_value;
         // msg.sender.balance-_value;
-        balances[_add] += _value;
+        balances[_add] -= _value;
     }}
 }
